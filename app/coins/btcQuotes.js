@@ -2,10 +2,10 @@ module.exports = {
 	items: [
 		{
 			// 0
-			text: "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.",
+			text: "Los Angeles Times 16/Sep/2022 Libano, Depositantes irrumpen en 5 bancos.",
 			speaker: "Satoshi",
 			url: "./block-height/0",
-			date: "2009-01-03",
+			date: "2022-09-24",
 			context: "embedded in the Genesis block"
 		},
 		{
