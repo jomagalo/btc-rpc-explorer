@@ -1,4 +1,4 @@
-# BTC RPC Explorer
+# BTC+ RPC Explorer
 
 ## Self-Hosted Bitcoin explorer for everyone running [Bitcoin Plus Core](https://github.com/jomagalo/bitcoin).
 
