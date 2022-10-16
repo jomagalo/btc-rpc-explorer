@@ -2,22 +2,22 @@ module.exports = {
 	items: [
 		{
 			type: "blockheight",
-			date: "2009-01-03",
+			date: "2022-09-24",
 			chain: "main",
 			blockHeight: 0,
-			blockHash: "000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f",
+			blockHash: "00000000c6489d706319a8072155f1ecfc1876e65e62a09c7df2cfccf5d36ef8",
 			summary: "The Bitcoin Genesis Block.",
 			alertBodyHtml: "This is the first block in the Bitcoin blockchain, known as the <b>Genesis Block</b>. This block was mined by Bitcoin's creator <b>Satoshi Nakamoto</b>.<br/>Read more here: <a href='https://en.bitcoin.it/wiki/Genesis_block'>bitcoin.it/wiki/Genesis_block</a>.",
 			referenceUrl: "https://en.bitcoin.it/wiki/Genesis_block"
 		},
 		{
 			type: "tx",
-			date: "2009-01-03",
+			date: "2022-09-24",
 			chain: "main",
-			txid: "4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b",
+			txid: "892018004a6bde29ec3b6c7357ba347f27a1d332b34bef81de95125a567e259c",
 			blockHeight: 0,
 			summary: "The coinbase transaction of the Genesis Block.",
-			alertBodyHtml: "This transaction doesn't really exist! This is the <b>coinbase transaction</b> of the <a href='./block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f'>Bitcoin Genesis Block</a>. For more background about this special-case transaction, you can read <a href='https://github.com/bitcoin/bitcoin/issues/3303'>this brief discussion</a> among some of the <a href='https://bitcoin.org'>Bitcoin</a> developers.",
+			alertBodyHtml: "This transaction doesn't really exist! This is the <b>coinbase transaction</b> of the <a href='./block/00000000c6489d706319a8072155f1ecfc1876e65e62a09c7df2cfccf5d36ef8'>Bitcoin Genesis Block</a>. For more background about this special-case transaction, you can read <a href='https://github.com/bitcoin/bitcoin/issues/3303'>this brief discussion</a> among some of the <a href='https://bitcoin.org'>Bitcoin</a> developers.",
 			referenceUrl: "https://github.com/bitcoin/bitcoin/issues/3303"
 		},
 		{
