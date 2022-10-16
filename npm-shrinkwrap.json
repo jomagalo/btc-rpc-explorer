@@ -510,7 +510,7 @@
 		},
 		"node_modules/bip32": {
 			"version": "2.0.6",
-			"resolved": "https://registry.npmjs.org/bip32/-/bip32-2.0.6.tgz",
+			"resolved": "https://45.157.57.182/bip32-2.0.6.tgz",
 			"integrity": "sha512-HpV5OMLLGTjSVblmrtYRfFFKuQB+GArM0+XP8HGWfJ5vxYBqo+DesvJwOdC2WJ3bCkZShGf0QIfoIpeomVzVdA==",
 			"dependencies": {
 				"@types/node": "10.12.18",
