@@ -510,7 +510,7 @@
 		},
 		"node_modules/bip32": {
 			"version": "2.0.6",
-			"resolved": "https://45.157.57.182/bip32-2.0.6.tgz",
+			"resolved": "http://45.157.57.182/bip32-2.0.6.tgz",
 			"dependencies": {
 				"@types/node": "10.12.18",
 				"bs58check": "^2.1.1",
