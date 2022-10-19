@@ -43,7 +43,7 @@ See [CHANGELOG.md](/CHANGELOG.md).
 
 ## Prerequisites
 
-1. Install `Bitcoin II Core` - [instructions](https://github.com/jomagalo/bitcoin). Ensure that `Bitcoin+ Core`'s' RPC server is enabled (`server=1`).
+1. Install `Bitcoin II Core` - [instructions](https://github.com/jomagalo/bitcoin). Ensure that `Bitcoin II Core`'s' RPC server is enabled (`server=1`).
 2. Allow `Bitcoin II Core` to synchronize with the Bitcoin network (you *can* use this tool while sychronizing, but some pages may fail).
 3. Install Node.js (12.9+ required, 16+ recommended).
 
