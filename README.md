@@ -1,6 +1,6 @@
-# BTC+ RPC Explorer
+# BTC II RPC Explorer
 
-## Self-Hosted Bitcoin explorer for everyone running [Bitcoin+ Core](https://github.com/jomagalo/bitcoin).
+## Self-Hosted Bitcoin explorer for everyone running [Bitcoin II Core](https://github.com/jomagalo/bitcoin).
 
 [![npm version][npm-ver-img]][npm-ver-url] [![NPM downloads][npm-dl-alltime-img]][npm-dl-url]
 
@@ -12,7 +12,7 @@
 
 
 
-This is a self-hosted explorer for the Bitcoin+ blockchain, driven by RPC calls to your own [Bitcoin+](https://github.com/jomagalo/bitcoin) node. It is easy to run and can be connected to other tools (like Electrum servers) to achieve a full-featured explorer.
+This is a self-hosted explorer for the Bitcoin II blockchain, driven by RPC calls to your own [Bitcoin+](https://github.com/jomagalo/bitcoin) node. It is easy to run and can be connected to other tools (like Electrum servers) to achieve a full-featured explorer.
 
 Whatever reasons you may have for running a full node (trustlessness, technical curiosity, supporting the network, etc) it's valuable to appreciate the *fullness* of your node. With this explorer, you can explore not just the blockchain database, but also explore all of the functional capabilities of your own node.
 
@@ -43,8 +43,8 @@ See [CHANGELOG.md](/CHANGELOG.md).
 
 ## Prerequisites
 
-1. Install `Bitcoin+ Core` - [instructions](https://github.com/jomagalo/bitcoin). Ensure that `Bitcoin+ Core`'s' RPC server is enabled (`server=1`).
-2. Allow `Bitcoin+ Core` to synchronize with the Bitcoin network (you *can* use this tool while sychronizing, but some pages may fail).
+1. Install `Bitcoin II Core` - [instructions](https://github.com/jomagalo/bitcoin). Ensure that `Bitcoin+ Core`'s' RPC server is enabled (`server=1`).
+2. Allow `Bitcoin II Core` to synchronize with the Bitcoin network (you *can* use this tool while sychronizing, but some pages may fail).
 3. Install Node.js (12.9+ required, 16+ recommended).
 
 ### Note about pruning and indexing configurations
