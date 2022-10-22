@@ -1,4 +1,4 @@
-# BTC II RPC Explorer
+# BTC2 RPC Explorer
 
 ## Self-Hosted Bitcoin explorer for everyone running [Bitcoin II Core](https://github.com/jomagalo/bitcoin).
 
