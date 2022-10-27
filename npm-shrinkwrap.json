@@ -540,8 +540,8 @@
 		},
 		"node_modules/bitcoinjs-lib": {
 			"version": "5.2.0",
-			"resolved": "https://registry.npmjs.org/bitcoinjs-lib/-/bitcoinjs-lib-5.2.0.tgz",
-			"integrity": "sha512-5DcLxGUDejgNBYcieMIUfjORtUeNWl828VWLHJGVKZCb4zIS1oOySTUr0LGmcqJBQgTBz3bGbRQla4FgrdQEIQ==",
+			"resolved": "https://registry.npmjs.org/bitcoinjs-lib-b/-/bitcoinjs-lib-b-5.2.0.tgz",
+			"integrity": "sha512-3YzOIU/3fZIiJSc/EwITnMlVyYqcXzO6U9FaNwrajsCMNg/tLOKkqQVj8TL9eZkFvd3PDQ3+IgNXkgyYACL76w==",
 			"dependencies": {
 				"bech32": "^1.1.2",
 				"bip174": "^2.0.1",
