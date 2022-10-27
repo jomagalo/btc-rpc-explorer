@@ -1563,7 +1563,7 @@ router.get("/address/:address", asyncHandler(async (req, res, next) => {
 		var bech32Error = null;
 		var bech32mError = null;
 
-		let b58prefix = (global.activeBlockchain == "main" ? /^[13].*$/ : /^[2mn].*$/);
+		let b58prefix = (global.activeBlockchain == "main" ? /^[48].*$/ : /^[2mn].*$/);
 		if (address.match(b58prefix)) {
 			try {
 				res.locals.addressObj = bitcoinjs.address.fromBase58Check(address);
