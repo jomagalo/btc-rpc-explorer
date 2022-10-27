@@ -8,7 +8,7 @@ module.exports = {
 			"url":"/api/block/:hash",
 			"desc":"Returns the details of the block with the given hash.",
 			"returnType":"json",
-			"testUrl":"/api/block/0000000000000000001c8018d9cb3b742ef25114f27563e3fc4a1902167f9893"
+			"testUrl":"/api/block/0000000013bcb6ff1879e5bf6b9bdef9de7f5663e3b9a1369093ffdc497451c0"
 		},
 
 		{
@@ -16,7 +16,7 @@ module.exports = {
 			"url":"/api/block/:height",
 			"desc":"Returns the details of the block at the given height.",
 			"returnType":"json",
-			"testUrl":"/api/block/123456"
+			"testUrl":"/api/block/100"
 		},
 		
 		{
@@ -24,7 +24,7 @@ module.exports = {
 			"url":"/api/block/header/:hash",
 			"desc":"Returns the details of the block header with the given hash.",
 			"returnType":"json",
-			"testUrl":"/api/block/header/0000000000000000001c8018d9cb3b742ef25114f27563e3fc4a1902167f9893"
+			"testUrl":"/api/block/header/0000000013bcb6ff1879e5bf6b9bdef9de7f5663e3b9a1369093ffdc497451c0"
 		},
 
 		{
@@ -32,7 +32,7 @@ module.exports = {
 			"url":"/api/block/header/:height",
 			"desc":"Returns the details of the block header at the given height.",
 			"returnType":"json",
-			"testUrl":"/api/block/header/123456"
+			"testUrl":"/api/block/header/100"
 		},
 
 		{
@@ -58,7 +58,7 @@ module.exports = {
 			"url":"/api/tx/:txid",
 			"desc":"Returns the details of the transaction with the given txid.",
 			"returnType":"json",
-			"testUrl": "/api/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16"
+			"testUrl": "/api/tx/9a7790a4a50a2b94291027fcdcdeb260438de7aa09fd9d6f9fe181740bdc0bc2"
 		},
 		{
 			"category":"transactions",
@@ -101,7 +101,7 @@ module.exports = {
 				"sort":"Sorting direction for transactions ('desc'=new first, 'asc'=old first)"
 			},
 			"returnType":"json",
-			"testUrl":"/api/address/34rng4QwB5pHUbGDJw1JxjLwgEU8TQuEqv"
+			"testUrl":"/api/address/4G8DCmkVYFvrU4NHGnQ3hi1Db5KeW4eFJZ"
 		},
 
 
