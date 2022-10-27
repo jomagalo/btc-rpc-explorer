@@ -1,7 +1,7 @@
 {
-	"name": "btc-rpc-explorer",
+	"name": "btc2-rpc-explorer",
 	"version": "3.3.0",
-	"description": "Open-source, self-hosted Bitcoin explorer",
+	"description": "Open-source, self-hosted Bitcoin II explorer",
 	"private": false,
 	"bin": "bin/cli.js",
 	"scripts": {
@@ -18,14 +18,14 @@
 	},
 	"keywords": [
 		"bitcoin",
-		"btc",
+		"btc2",
 		"blockchain"
 	],
-	"author": "Dan Janosik <dan@47.io>",
+	"author": "Jomagalo <jomagalo@gmail.com>",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/janoside/btc-rpc-explorer.git"
+		"url": "git+https://github.com/jomagalo/btc-rpc-explorer.git"
 	},
 	"dependencies": {
 		"@janoside/app-utils": "github:janoside/app-utils#ed4c9740804e660dd4475cd36d6c1daf0c8e2d9d",
