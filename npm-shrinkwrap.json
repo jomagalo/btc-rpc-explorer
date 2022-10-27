@@ -1,11 +1,11 @@
 {
-	"name": "btc-rpc-explorer",
+	"name": "btc2-rpc-explorer",
 	"version": "3.3.0",
 	"lockfileVersion": 2,
 	"requires": true,
 	"packages": {
 		"": {
-			"name": "btc-rpc-explorer",
+			"name": "btc2-rpc-explorer",
 			"version": "3.3.0",
 			"license": "MIT",
 			"dependencies": {
